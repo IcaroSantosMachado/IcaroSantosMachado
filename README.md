@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**IcaroSantosMachado/IcaroSantosMachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá, sou Ícaro dos Santos Machado, iniciante na área e em busca de novas experiências.
 
-Here are some ideas to get you started:
+ <div>
+   <a href="https://github.com/IcaroSantosMachado">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IcaroSantosMachado&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IcaroSantosMachado&layout=compact&langs_count=6&theme=midnight-purple"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+<div style="display: inline_block"><br>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+</div>
+ 
+ <br>
+ 
+ 
+<div> 
+ <a href="Ícars#2713" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ 
+</div>
